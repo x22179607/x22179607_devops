@@ -25,7 +25,7 @@ SECRET_KEY = 'cafusabcdefghiacfdeysaczdsfoapqwsbbbbbbbbbbbsaaaaaaaaaaa' #this is
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['x22179607-devops-env.eba-j2pmamtg.eu-north-1.elasticbeanstalk.com', '0.0.0.0']
 
 
 # Application definition
