@@ -1,0 +1,16 @@
+version: 0.2
+phases:
+    install:
+        runtime-versions:
+            python: 3.9
+        commands:
+            - pip install --upgrade pip
+            # Install dependencies needed for running the static analys is
+            - pip install pylint
+    pre_build:
+        commands:
+            - pip install -r requirements.txt
+            - python --version
+artifacts:
+    files:
+        - '**/*'
