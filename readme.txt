@@ -4,3 +4,4 @@ Cloud DevOpsSec, MSc in Cloud Computing
 
 Video URL: https://www.youtube.com/watch?v=ZMhttk2G7xA
 Application URL: http://x22179607-devops-env.eba-j2pmamtg.eu-north-1.elasticbeanstalk.com/
+GitHub URL: https://github.com/x22179607/x22179607_devops.git
